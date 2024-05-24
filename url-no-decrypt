@@ -1,5 +1,5 @@
 # Domain/URL for exclude SSL Decryption
 help.teamssg.com/
 s2g.beyondtrustcloud.com/
-*.wikipedia.com
-*.auth.google.com
+*.wikipedia.com/
+*.auth.google.com/
