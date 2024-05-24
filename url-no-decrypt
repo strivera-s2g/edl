@@ -1,4 +1,8 @@
 # Domain/URL for exclude SSL Decryption
+# Cert pinning
 help.teamssg.com/
 s2g.beyondtrustcloud.com/
 pdcgp.teamssg.com/
+
+# Expired certificates
+*.bdec.microsoft.com/ 
